@@ -1,22 +1,16 @@
 # Exercícios de Sistemas Operacionais
 
-## Meu Nome
-Luiz Henrique Viras Nobre
+## Meu Nome: Luiz Henrique Viras Nobre
 
-## Universidade
-Centro Universitário Senac - Santo Amaro
+## Universidade: Centro Universitário Senac - Santo Amaro
 
-## Curso
-Engenharia da Computação
+## Curso: Engenharia da Computação
 
-## Semestre
-8º Semestre
+## Semestre: 8º Semestre
 
-## Disciplina
-Sistemas Operacionais
+## Disciplina: Sistemas Operacionais
 
-## Professor
-Eduardo Heredia
+## Professor: Eduardo Heredia
 
 ---
 
