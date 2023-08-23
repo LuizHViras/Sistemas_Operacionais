@@ -20,7 +20,7 @@ Bem-vindo ao repositório de exercícios da disciplina de Sistemas Operacionais!
 ---
 
 ## Lista de Exercícios
-1. Gerenciando Recursos Escassos 🚧
+**ep01** - Gerenciando Recursos Escassos 🚧
 
 Legenda: 
 ✅ - Concluído
